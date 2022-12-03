@@ -1,2 +1,2 @@
-# ProgrammingAssignment
-Compilation of assignment projects during programming course in Universiti Tenaga Nasional
+# Uniten Assignment
+Compilation of assignment projects during multiple course at Universiti Tenaga Nasional
